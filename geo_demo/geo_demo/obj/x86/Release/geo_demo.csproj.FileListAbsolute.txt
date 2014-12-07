@@ -1,0 +1,9 @@
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.Form1.resources
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.PlaceForm.resources
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\bin\Release\geo_demo.exe
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\bin\Release\geo_demo.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.exe
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2010\Projects\geo_demo\geo_demo\obj\x86\Release\geo_demo.csprojResolveAssemblyReference.cache

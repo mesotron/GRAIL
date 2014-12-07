@@ -1,0 +1,775 @@
+key	freq
+aberdeen	960
+abilene	633
+acton	799
+acworth	149
+akron	2170
+alamogordo	418
+alhambra	261
+allen	3148
+allentown	974
+alpharetta	1106
+alton	335
+altoona	142
+alvin	205
+amarillo	1705
+anaheim	4954
+ankeny	71
+ann arbor	849
+annapolis	2382
+antioch	787
+apache junction	89
+ardmore	267
+arnold	1062
+arvada	395
+asheville	1192
+atlantic city	1351
+attleboro	382
+auburn hills	216
+aventura	554
+avon	716
+avondale	415
+babylon	278
+bainbridge island	237
+bakersfield	2314
+bangor	1064
+barberton	68
+bartlesville	183
+bartlett	449
+batavia	159
+baton rouge	884
+baytown	497
+beaverton	887
+belleville	193
+bellingham	1895
+beloit	137
+benton	676
+berkeley	2744
+berwyn	80
+beverly	1195
+beverly hills	444
+biddeford	105
+billerica	413
+biloxi	722
+binghamton	979
+bismarck	361
+blacksburg	140
+blaine	504
+bloomfield	341
+blythe	101
+boca raton	489
+bossier city	79
+bothell	1086
+bowie	555
+bozeman	158
+bradenton	162
+brandon	638
+brea	138
+bremerton	880
+bridgeport	655
+bridgewater	213
+brockton	347
+broken arrow	139
+brookfield	496
+brookhaven	301
+brookings	294
+brookline	927
+broomfield	341
+brownsville	605
+bryan	816
+burien	243
+burlingame	179
+burnsville	124
+caldwell	348
+calumet city	85
+cambridge	3836
+camden	888
+campbell	1564
+carbondale	137
+carson	666
+cary	421
+castle rock	190
+cedar hill	69
+cedar park	160
+cedar rapids	194
+centerville	273
+chanhassen	106
+chapel hill	324
+charlottesville	1054
+chattanooga	2582
+cheektowaga	138
+chelmsford	151
+chelsea	1254
+chesapeake	959
+chester	1399
+cheyenne	1164
+chicago heights	2213
+chicopee	91
+chillicothe	358
+chula vista	151
+cincinnati	14194
+citrus heights	98
+claremont	450
+clearfield	100
+clearwater	1345
+cleburne	410
+clermont	375
+cleveland heights	1920
+clifton	1132
+college park	470
+college station	349
+colleyville	192
+collierville	182
+collinsville	289
+commerce city	108
+compton	239
+conroe	446
+conway	431
+cookeville	147
+coppell	195
+coral gables	438
+corcoran	179
+cornelius	272
+corpus christi	1262
+corsicana	139
+corvallis	232
+costa mesa	11931
+council bluffs	206
+coventry	187
+covina	234
+covington	617
+crystal lake	98
+culver city	173
+cupertino	308
+cuyahoga falls	137
+daly city	128
+dana point	97
+danbury	388
+danvers	139
+dartmouth	444
+davis	3564
+dayton	4140
+daytona beach	732
+dearborn	1415
+dearborn heights	112
+dedham	268
+deer park	195
+dekalb	463
+del rio	217
+delano	325
+delaware	3614
+denison	403
+denton	1414
+des plaines	201
+desoto	477
+doral	496
+dothan	210
+douglasville	170
+downey	294
+dubuque	156
+duncan	545
+duncanville	168
+dunwoody	574
+durham	2229
+eagan	213
+east chicago	2300
+east honolulu	175
+east point	67
+eastchester	95
+eastpointe	68
+eden prairie	148
+edgewater	363
+edina	283
+edinburg	133
+edmond	277
+edmonds	617
+el cajon	120
+elgin	597
+elizabeth	1482
+elizabethtown	138
+elk grove	281
+elkhart	310
+elmhurst	343
+elmira	437
+elyria	251
+encinitas	223
+erie	1306
+escondido	398
+euclid	764
+eugene	1573
+euless	287
+evanston	577
+evansville	625
+fairbanks	445
+fairfax	1143
+falmouth	203
+fargo	645
+farmers branch	111
+farmington hills	141
+federal way	374
+ferguson	310
+flower mound	187
+folsom	562
+fontana	127
+fort collins	248
+fort lauderdale	1871
+fort myers	559
+fort wayne	570
+framingham	219
+frederick	1147
+fredericksburg	636
+freeport	513
+friendswood	330
+frisco	733
+fullerton	829
+gahanna	100
+gaithersburg	229
+gallatin	161
+galt	192
+galveston	2947
+garden grove	94
+gardena	150
+gardner	1141
+garfield	459
+gary	2230
+gastonia	398
+germantown	873
+gilroy	179
+glenville	106
+gloucester	274
+golden valley	63
+goodyear	384
+goshen	178
+grand junction	202
+grand prairie	195
+grand rapids	808
+grandview	392
+greece	402
+greeley	190
+green bay	1416
+greenacres	134
+greensboro	1822
+greenwich	497
+gresham	797
+groton	70
+guilford	179
+gulfport	288
+hagerstown	502
+hamilton	2684
+hampton	7189
+hamtramck	68
+hanford	284
+harlingen	421
+harrisburg	1289
+harrison	1649
+hartford	3560
+harvey	599
+haverhill	85
+hawthorne	583
+helena	621
+hempstead	325
+hendersonville	184
+henrietta	80
+herndon	202
+hialeah	840
+high point	124
+highland park	224
+hilliard	219
+hillsboro	811
+hilo	988
+hobart	189
+hoboken	193
+hollywood	3804
+homewood	1767
+hopewell	122
+horn lake	87
+hot springs	329
+houma	214
+huntersville	387
+huntington beach	336
+hutchinson	325
+hyde park	333
+idaho falls	131
+indio	92
+inglewood	393
+iowa city	179
+irvine	1347
+irving	5042
+islip	342
+issaquah	544
+ithaca	922
+jacksonville beach	3322
+jamestown	666
+janesville	168
+jeffersontown	53
+jeffersonville	270
+jersey city	294
+johnston	342
+johnstown	280
+joliet	541
+jonesboro	430
+joplin	888
+jupiter	328
+kahului	301
+kalamazoo	448
+kaneohe	73
+kankakee	134
+kannapolis	134
+kearney	427
+kearny	1215
+keller	575
+kenmore	416
+kenner	171
+kennesaw	388
+kennewick	639
+kenosha	357
+kernersville	58
+kerrville	146
+key west	923
+killeen	264
+kingston	798
+kinston	89
+kirkland	1013
+kissimmee	750
+knoxville	2276
+kokomo	374
+kyle	577
+la crosse	114
+la mesa	6343
+la mirada	89
+la quinta	2648
+lagrange	275
+lake jackson	62
+lake oswego	120
+lake stevens	84
+lakeland	721
+laredo	1029
+las cruces	262
+lawndale	254
+lawrenceville	202
+lawton	378
+layton	104
+league city	58
+leavenworth	586
+leawood	61
+lenexa	85
+lewisville	408
+lexington	3317
+lincoln park	483
+little rock	917
+littleton	436
+livermore	268
+livonia	474
+lodi	248
+lomita	145
+lompoc	143
+longmont	606
+lorain	444
+loveland	803
+lowell	985
+lubbock	1441
+ludlow	263
+lynchburg	310
+lynn	902
+lynnwood	835
+lynwood	199
+madera	714
+madison heights	59
+mamaroneck	99
+manassas	107
+manitowoc	135
+maple grove	158
+maple valley	63
+maplewood	166
+marana	542
+margate	197
+maricopa	795
+marietta	1612
+marlborough	295
+marquette	1154
+martinez	469
+maryville	188
+massillon	187
+matthews	578
+mcallen	516
+mchenry	178
+mckinney	591
+mcminnville	265
+melbourne	2999
+melrose	823
+mequon	191
+merced	582
+mercer island	176
+meriden	123
+merrillville	249
+merrimack	160
+miamisburg	157
+midwest city	87
+milpitas	370
+milwaukie	130
+minnetonka	746
+minot	283
+miramar	958
+missoula	367
+modesto	1149
+monrovia	120
+montclair	203
+monterey	1827
+moore	1716
+mooresville	163
+moorhead	136
+morristown	517
+moscow	2035
+moses lake	196
+mountain view	291
+mukilteo	291
+muncie	267
+murfreesboro	1234
+murray	1182
+muskegon	262
+muskogee	380
+myrtle beach	699
+nacogdoches	174
+naperville	1204
+nashua	471
+natick	382
+needham	123
+neenah	83
+new albany	168
+new berlin	108
+new bern	133
+new braunfels	158
+new haven	518
+new rochelle	104
+new windsor	60
+newberg	121
+newnan	174
+newport	2369
+newport beach	412
+newtown	145
+niagara falls	430
+noblesville	121
+nogales	414
+norman	1208
+north chicago	2071
+north las vegas	2603
+north miami	5747
+north platte	201
+north port	192
+northampton	336
+northfield	249
+northglenn	206
+northport	158
+norwich	302
+norwood	471
+novato	401
+novi	358
+oak creek	75
+oak harbor	154
+oak park	336
+oak ridge	193
+oakland park	2721
+oakley	586
+ocala	510
+oceanside	1145
+ocoee	166
+odessa	600
+ogden	660
+olathe	165
+olympia	3561
+onondaga	140
+ontario	2815
+opelika	115
+oregon	31747
+orlando	14131
+oro valley	183
+oshkosh	269
+ossining	85
+ottumwa	88
+overland park	159
+owasso	229
+owensboro	259
+oxnard	312
+pacifica	251
+paducah	305
+palm springs	883
+palo alto	447
+panama city	234
+parma	238
+pasco	700
+paterson	189
+patterson	612
+peabody	884
+pearland	122
+peekskill	97
+pelham	159
+pensacola	1203
+petaluma	326
+petersburg	1283
+pflugerville	175
+pharr	83
+pittsburgh	16466
+pittsfield	225
+pittsford	112
+plainview	139
+plano	2359
+pleasanton	373
+pleasantville	114
+pocatello	163
+pomona	410
+pompano beach	133
+pontiac	1680
+porterville	89
+poway	254
+prescott	965
+provo	365
+puyallup	688
+queen creek	90
+queensbury	67
+racine	930
+raleigh	3612
+ramsey	405
+rancho cordova	208
+randolph	1019
+redlands	165
+reno	3284
+renton	1501
+richardson	1408
+richfield	186
+richland	1174
+ridgefield	207
+rio rancho	141
+roanoke	623
+rochester hills	72
+rock island	121
+rockford	814
+rocklin	177
+rockville	508
+rockwall	190
+romulus	214
+roseburg	211
+rosemead	114
+rotterdam	457
+round rock	455
+rowlett	128
+roy	884
+saginaw	565
+sahuarita	113
+salt lake city	447
+sammamish	438
+san angelo	145
+san benito	154
+san bernardino	474
+san clemente	123
+san jacinto	171
+san juan	672
+san leandro	129
+san mateo	263
+sandusky	364
+sandy springs	153
+santa ana	319
+santa barbara	652
+santa clara	426
+santa cruz	375
+santa fe	1215
+santa monica	397
+santa rosa	198
+santee	137
+sapulpa	98
+sarasota	1178
+saratoga	623
+saugus	97
+schenectady	390
+scottsdale	6274
+scranton	710
+seatac	1149
+sebastian	243
+seguin	145
+shakopee	75
+sheboygan	239
+shelby	1105
+shelbyville	487
+shelton	509
+sherman	1081
+sherwood	283
+shreveport	1058
+shrewsbury	80
+sidney	293
+sierra vista	121
+sioux city	129
+slidell	129
+smithtown	142
+somers	105
+somerville	639
+south bend	384
+south milwaukee	1167
+south portland	3974
+south san francisco	2599
+southampton	487
+southaven	126
+southfield	596
+southgate	151
+southlake	204
+spokane	5858
+spokane valley	77
+springdale	181
+st. george	94
+st. louis	4078
+st. paul	2064
+st. petersburg	402
+stamford	475
+stanton	335
+starkville	88
+statesville	101
+staunton	143
+stillwater	357
+stockbridge	193
+stockton	1384
+stratford	259
+strongsville	66
+suffolk	942
+sugar land	146
+sunnyvale	436
+tacoma	7713
+tallahassee	932
+tamarac	60
+tampa	9680
+taylor	2711
+taylorsville	184
+temecula	127
+tempe	2602
+terre haute	54
+tewksbury	147
+texas city	154
+thornton	675
+tigard	330
+titusville	77
+tonawanda	131
+topeka	719
+torrance	470
+tracy	800
+trenton	835
+tualatin	123
+tulare	291
+tuscaloosa	299
+tustin	162
+tyler	1265
+university city	186
+university park	204
+university place	259
+upper arlington	1689
+urbana	471
+utica	803
+vacaville	114
+vallejo	308
+valparaiso	231
+van buren	306
+vancouver	8655
+venice	1006
+ventura	868
+vernon	1884
+vineland	141
+visalia	276
+waco	947
+wadsworth	264
+wake forest	282
+wakefield	351
+walla walla	380
+wallingford	336
+waltham	688
+warner robins	85
+wasco	235
+watauga	143
+waterbury	538
+watsonville	76
+waukegan	465
+waukesha	996
+wausau	174
+wauwatosa	181
+waynesboro	337
+webster groves	49
+wellesley	875
+wenatchee	710
+wentzville	74
+west allis	80
+west bend	102
+west chicago	2374
+west hollywood	102
+west lafayette	88
+west memphis	3070
+west new york	865
+west sacramento	2973
+westford	64
+westlake	980
+weston	377
+westport	428
+wheaton	335
+white plains	138
+whittier	408
+wichita	1916
+williamsport	64
+willoughby	111
+wilson	2805
+windham	208
+winona	156
+woburn	535
+woodbury	313
+wooster	126
+worcester	993
+wyoming	2402
+yakima	1434
+yarmouth	112
+york	21812
+yorktown	252
+yukon	185
+yuma	1044
+zanesville	148
+albuquerque	6457
+arlington	14764
+atlanta	28260
+austin	24453
+baltimore	21034
+boston	44761
+charlotte	19107
+chicago	57916
+cleveland	28794
+colorado springs	2051
+columbus	15118
+dallas	40792
+denver	26345
+detroit	25679
+el paso	3215
+fort worth	6414
+fresno	7601
+houston	38474
+indianapolis	12922
+jacksonville	18583
+kansas city	6632
+las vegas	11244
+long beach	3577
+los angeles	18345
+louisville	11192
+memphis	17289
+mesa	29371
+miami	38618
+milwaukee	17565
+minneapolis	14947
+nashville	14756
+new orleans	6713
+new york	40991
+oakland	20443
+oklahoma city	4061
+omaha	6334
+philadelphia	29091
+phoenix	31451
+portland	46639
+sacramento	17040
+san antonio	6685
+san diego	10264
+san francisco	16554
+san jose	5423
+seattle	47886
+tucson	9367
+tulsa	8356
+virginia beach	2345
+washington	111625

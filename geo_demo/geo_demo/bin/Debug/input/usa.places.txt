@@ -1,0 +1,775 @@
+name	key	lat	lon	known
+Albuquerque	albuquerque	35.1172	-106.6246	unknown
+Arlington	arlington	32.6945	-97.1275	unknown
+Atlanta	atlanta	33.7629	-84.4226	unknown
+Austin	austin	30.3059	-97.7505	unknown
+Baltimore	baltimore	39.3008	-76.6106	unknown
+Boston	boston	42.336	-71.0179	unknown
+Charlotte	charlotte	35.1976	-80.8345	unknown
+Chicago	chicago	41.8371	-87.685	unknown
+Cleveland	cleveland	41.4797	-81.6785	unknown
+Colorado Springs	colorado springs	38.8632	-104.7599	unknown
+Columbus	columbus	39.9889	-82.9874	unknown
+Dallas	dallas	32.7942	-96.7652	unknown
+Denver	denver	39.768	-104.8727	unknown
+Detroit	detroit	42.3831	-83.1022	unknown
+El Paso	el paso	31.8493	-106.4375	unknown
+Fort Worth	fort worth	32.7539	-97.3362	unknown
+Fresno	fresno	36.7806	-119.7929	unknown
+Houston	houston	29.7687	-95.3867	unknown
+Indianapolis	indianapolis	39.7764	-86.1462	unknown
+Jacksonville	jacksonville	30.3346	-81.6577	unknown
+Kansas City	kansas city	39.1223	-94.552	unknown
+Las Vegas	las vegas	36.2058	-115.2228	unknown
+Long Beach	long beach	33.7889	-118.1598	unknown
+Los Angeles	los angeles	34.1121	-118.4112	unknown
+Louisville	louisville	38.2248	-85.7412	unknown
+Memphis	memphis	35.1056	-90.007	unknown
+Mesa	mesa	33.4177	-111.7403	unknown
+Miami	miami	25.7757	-80.2108	unknown
+Milwaukee	milwaukee	43.0634	-87.9666	unknown
+Minneapolis	minneapolis	44.9619	-93.2668	unknown
+Nashville	nashville	36.1716	-86.7848	unknown
+New Orleans	new orleans	30.0658	-89.9314	unknown
+New York	new york	40.6698	-73.9438	unknown
+Oakland	oakland	37.7715	-122.2246	unknown
+Oklahoma City	oklahoma city	35.4671	-97.5135	unknown
+Omaha	omaha	41.2639	-96.0117	unknown
+Philadelphia	philadelphia	40.0068	-75.1347	unknown
+Phoenix	phoenix	33.5426	-112.0714	unknown
+Portland	portland	45.5383	-122.6565	unknown
+Sacramento	sacramento	38.5669	-121.4674	unknown
+San Antonio	san antonio	29.4577	-98.5054	unknown
+San Diego	san diego	32.815	-117.1358	unknown
+San Francisco	san francisco	37.7933	-122.5548	unknown
+San Jose	san jose	37.304	-121.8498	unknown
+Seattle	seattle	47.6218	-122.3503	unknown
+Tucson	tucson	32.1958	-110.8917	unknown
+Tulsa	tulsa	36.1278	-95.9164	unknown
+Virginia Beach	virginia beach	36.7394	-76.0437	unknown
+Washington	washington	38.9051	-77.0162	unknown
+aberdeen	aberdeen	45.4647197	-98.4678384	known
+abilene	abilene	32.4543777	-99.7383612	known
+acton	acton	42.484303	-71.4377758	known
+acworth	acworth	34.0564215	-84.668859	known
+akron	akron	41.0801445	-81.5219213	known
+alamogordo	alamogordo	32.8833981	-105.9627013	known
+alhambra	alhambra	34.0839735	-118.1355141	known
+allen	allen	33.1086941	-96.6735748	known
+allentown	allentown	40.5961004	-75.4755418	known
+alpharetta	alpharetta	34.0703772	-84.2738395	known
+alton	alton	38.9033059	-90.1523299	known
+altoona	altoona	40.5083878	-78.4009009	known
+alvin	alvin	29.3407794	-95.4517887	known
+amarillo	amarillo	35.20038	-101.8283047	known
+anaheim	anaheim	33.8252085	-117.9318365	known
+ankeny	ankeny	41.727901	-93.6032285	known
+ann arbor	ann arbor	42.2756869	-83.7311546	known
+annapolis	annapolis	38.9705963	-76.5038341	known
+antioch	antioch	37.9775883	-121.7967105	known
+apache junction	apache junction	33.3982146	-111.5348896	known
+ardmore	ardmore	34.194386	-97.1252472	known
+arnold	arnold	38.4294129	-90.3725371	known
+arvada	arvada	39.831948	-105.149696	known
+asheville	asheville	35.5702617	-82.5536558	known
+atlantic city	atlantic city	39.3773215	-74.4512438	known
+attleboro	attleboro	41.9310722	-71.2949785	known
+auburn hills	auburn hills	42.6734236	-83.2446643	known
+aventura	aventura	25.956641	-80.1370603	known
+avon	avon	41.4485235	-82.0187395	known
+avondale	avondale	33.3157084	-112.3396052	known
+babylon	babylon	40.6521565	-73.3539372	known
+bainbridge island	bainbridge island	47.6488626	-122.5155629	known
+bakersfield	bakersfield	35.3528902	-119.035333	known
+bangor	bangor	44.8322681	-68.7906073	known
+barberton	barberton	41.009574	-81.6036583	known
+bartlesville	bartlesville	36.7355908	-95.9450901	known
+bartlett	bartlett	35.2301984	-89.8252126	known
+batavia	batavia	41.8489506	-88.3084598	known
+baton rouge	baton rouge	30.4506434	-91.1265985	known
+baytown	baytown	29.7583397	-94.9665485	known
+beaverton	beaverton	45.4798375	-122.8150438	known
+belleville	belleville	38.5148845	-89.9865333	known
+bellingham	bellingham	48.7527916	-122.469162	known
+beloit	beloit	42.5230464	-89.0183386	known
+benton	benton	34.5769007	-92.5716084	known
+berkeley	berkeley	37.8664678	-122.2988568	known
+berwyn	berwyn	41.8433343	-87.7909243	known
+beverly	beverly	42.5582758	-70.8434637	known
+beverly hills	beverly hills	34.0785606	-118.4021134	known
+biddeford	biddeford	43.4439802	-70.3981522	known
+billerica	billerica	42.5586729	-71.2673022	known
+biloxi	biloxi	30.4385596	-88.952171	known
+binghamton	binghamton	42.1013971	-75.9092238	known
+bismarck	bismarck	46.8111513	-100.769579	known
+blacksburg	blacksburg	37.2299461	-80.4276856	known
+blaine	blaine	45.1695895	-93.2077607	known
+bloomfield	bloomfield	41.8425788	-72.7406216	known
+blythe	blythe	33.6109705	-114.557817	known
+boca raton	boca raton	26.3739273	-80.1059974	known
+bossier city	bossier city	32.522524	-93.6655242	known
+bothell	bothell	47.7768037	-122.2050424	known
+bowie	bowie	38.9578262	-76.7422541	known
+bozeman	bozeman	45.6830185	-111.0541497	known
+bradenton	bradenton	27.4900615	-82.574957	known
+brandon	brandon	32.2778436	-89.9896014	known
+brea	brea	33.9252471	-117.8660758	known
+bremerton	bremerton	47.5436165	-122.7117323	known
+bridgeport	bridgeport	41.1872277	-73.1954948	known
+bridgewater	bridgewater	41.9727924	-70.9748186	known
+brockton	brockton	42.0820714	-71.0241656	known
+broken arrow	broken arrow	36.0366827	-95.7808645	known
+brookfield	brookfield	43.0639921	-88.1230075	known
+brookhaven	brookhaven	40.8563352	-72.9601654	known
+brookings	brookings	44.3026489	-96.7850054	known
+brookline	brookline	42.3242695	-71.1408025	known
+broomfield	broomfield	39.9541326	-105.0526624	known
+brownsville	brownsville	25.998138	-97.4566569	known
+bryan	bryan	30.6662588	-96.3670562	known
+burien	burien	47.476211	-122.3393643	known
+burlingame	burlingame	37.5894163	-122.3630753	known
+burnsville	burnsville	44.764827	-93.2794382	known
+caldwell	caldwell	43.6458845	-116.6596087	known
+calumet city	calumet city	41.6095242	-87.5384287	known
+cambridge	cambridge	42.3758188	-71.1183992	known
+camden	camden	39.936191	-75.1072962	known
+campbell	campbell	37.280335	-121.9541773	known
+carbondale	carbondale	37.7217939	-89.2238016	known
+carson	carson	33.837408	-118.2559344	known
+cary	cary	35.7813583	-78.8153029	known
+castle rock	castle rock	39.3760841	-104.8534824	known
+cedar hill	cedar hill	32.5808674	-96.9592656	known
+cedar park	cedar park	30.5133387	-97.8179708	known
+cedar rapids	cedar rapids	41.9667292	-91.6781679	known
+centerville	centerville	39.6345472	-84.1444028	known
+chanhassen	chanhassen	44.8543696	-93.5621276	known
+chapel hill	chapel hill	35.9269415	-79.0385953	known
+charlottesville	charlottesville	38.0374278	-78.4855765	known
+chattanooga	chattanooga	35.0648863	-85.250271	known
+cheektowaga	cheektowaga	42.9082147	-78.7466462	known
+chelmsford	chelmsford	42.5999639	-71.363119	known
+chelsea	chelsea	42.395897	-71.032487	known
+chesapeake	chesapeake	36.6777521	-76.3024326	known
+chester	chester	39.8456278	-75.3718342	known
+cheyenne	cheyenne	41.1454901	-104.7898862	known
+chicago heights	chicago heights	41.5100837	-87.6347068	known
+chicopee	chicopee	42.1763829	-72.5718599	known
+chillicothe	chillicothe	39.3393323	-82.9936898	known
+chula vista	chula vista	32.6281201	-117.0144149	known
+cincinnati	cincinnati	39.1411747	-84.5060004	known
+citrus heights	citrus heights	38.6947788	-121.2879915	known
+claremont	claremont	34.1258601	-117.7153069	known
+clearfield	clearfield	41.1027315	-112.0239021	known
+clearwater	clearwater	27.9788725	-82.7667251	known
+cleburne	cleburne	32.3524475	-97.4064086	known
+clermont	clermont	28.5526626	-81.7606115	known
+cleveland heights	cleveland heights	41.5112152	-81.5635639	known
+clifton	clifton	40.8631213	-74.1575109	known
+college park	college park	38.9963337	-76.9336176	known
+college station	college station	30.5857152	-96.2959359	known
+colleyville	colleyville	32.8913404	-97.1486585	known
+collierville	collierville	35.0473761	-89.698995	known
+collinsville	collinsville	38.676776	-90.0052871	known
+commerce city	commerce city	39.8081861	-104.9101305	known
+compton	compton	33.8929657	-118.2275065	known
+conroe	conroe	30.3172618	-95.4703278	known
+conway	conway	35.0756519	-92.4694182	known
+cookeville	cookeville	36.1478726	-85.506844	known
+coppell	coppell	32.9638765	-96.9908245	known
+coral gables	coral gables	25.6767457	-80.2494462	known
+corcoran	corcoran	36.0845619	-119.5610357	known
+cornelius	cornelius	35.4732946	-80.8839433	known
+corpus christi	corpus christi	27.7346201	-97.2806972	known
+corsicana	corsicana	32.0821564	-96.4685334	known
+corvallis	corvallis	44.56959	-123.2783244	known
+costa mesa	costa mesa	33.6667643	-117.9135058	known
+council bluffs	council bluffs	41.2388933	-95.8538409	known
+coventry	coventry	41.6932968	-71.6609746	known
+covina	covina	34.0903042	-117.8817916	known
+covington	covington	39.033359	-84.5165685	known
+crystal lake	crystal lake	42.2326852	-88.3349004	known
+culver city	culver city	34.0057861	-118.3968285	known
+cupertino	cupertino	37.3167925	-122.046524	known
+cuyahoga falls	cuyahoga falls	41.1402509	-81.4842763	known
+daly city	daly city	37.6739875	-122.4769157	known
+dana point	dana point	33.444834	-117.7057834	known
+danbury	danbury	41.4015631	-73.4710027	known
+danvers	danvers	42.5740624	-70.9494656	known
+dartmouth	dartmouth	41.5799272	-70.9768409	known
+davis	davis	38.555193	-121.736596	known
+dayton	dayton	39.7797542	-84.19981	known
+daytona beach	daytona beach	29.1977055	-81.0899417	known
+dearborn	dearborn	42.3126885	-83.2129368	known
+dearborn heights	dearborn heights	42.2755368	-83.2652745	known
+dedham	dedham	42.2466874	-71.1777558	known
+deer park	deer park	29.689559	-95.1151685	known
+dekalb	dekalb	41.9297924	-88.747814	known
+del rio	del rio	29.3703687	-100.879534	known
+delano	delano	35.7670454	-119.263709	known
+delaware	delaware	40.2870823	-83.0750463	known
+denison	denison	33.7578524	-96.5657858	known
+denton	denton	33.2163779	-97.1425327	known
+des plaines	des plaines	42.0343544	-87.9007868	known
+desoto	desoto	32.5991512	-96.8633596	known
+doral	doral	25.8149984	-80.3565191	known
+dothan	dothan	31.2334356	-85.4065826	known
+douglasville	douglasville	33.7381912	-84.7070784	known
+downey	downey	33.9378673	-118.1311501	known
+dubuque	dubuque	42.5009607	-90.7062005	known
+duncan	duncan	34.5209461	-97.9600805	known
+duncanville	duncanville	32.6459447	-96.9127743	known
+dunwoody	dunwoody	33.9418349	-84.3123502	known
+durham	durham	35.9805125	-78.9051101	known
+eagan	eagan	44.8168087	-93.1637987	known
+east chicago	east chicago	41.6500007	-87.4518072	known
+east honolulu	east honolulu	21.288889	-157.717222	known
+east point	east point	33.6696358	-84.4699656	known
+eastchester	eastchester	40.9537004	-73.8133917	known
+eastpointe	eastpointe	42.4656823	-82.9460359	known
+eden prairie	eden prairie	44.8487456	-93.459554	known
+edgewater	edgewater	28.9689104	-80.9828548	known
+edina	edina	44.8913518	-93.3602007	known
+edinburg	edinburg	26.3183029	-98.1622313	known
+edmond	edmond	35.6689351	-97.4159205	known
+edmonds	edmonds	47.8257186	-122.3702687	known
+el cajon	el cajon	32.8016994	-116.9603812	known
+elgin	elgin	42.0384225	-88.322651	known
+elizabeth	elizabeth	40.6653193	-74.1916793	known
+elizabethtown	elizabethtown	37.7038708	-85.8770782	known
+elk grove	elk grove	38.4159993	-121.3841377	known
+elkhart	elkhart	41.6910044	-85.9652545	known
+elmhurst	elmhurst	41.897287	-87.9431669	known
+elmira	elmira	42.0937996	-76.8097001	known
+elyria	elyria	41.3761119	-82.1062916	known
+encinitas	encinitas	33.0489325	-117.2621765	known
+erie	erie	42.1167021	-80.0731454	known
+escondido	escondido	33.1346928	-117.0721197	known
+euclid	euclid	41.5923511	-81.5190149	known
+eugene	eugene	44.0559805	-123.1173804	known
+euless	euless	32.8507262	-97.0798407	known
+evanston	evanston	42.0463468	-87.6939472	known
+evansville	evansville	37.988135	-87.5340409	known
+fairbanks	fairbanks	64.8352976	-147.6532529	known
+fairfax	fairfax	38.8531065	-77.2997917	known
+falmouth	falmouth	41.5921729	-70.5971842	known
+fargo	fargo	46.8652462	-96.828987	known
+farmers branch	farmers branch	32.9271776	-96.8804238	known
+farmington hills	farmington hills	42.4859957	-83.377116	known
+federal way	federal way	47.3090885	-122.3357538	known
+ferguson	ferguson	38.7489962	-90.294901	known
+flower mound	flower mound	33.034355	-97.1146542	known
+folsom	folsom	38.6750494	-121.1476058	known
+fontana	fontana	34.0878756	-117.4318703	known
+fort collins	fort collins	40.5487711	-105.0658624	known
+fort lauderdale	fort lauderdale	26.1411063	-80.1463608	known
+fort myers	fort myers	26.6194682	-81.830122	known
+fort wayne	fort wayne	41.088492	-85.1435899	known
+framingham	framingham	42.3085361	-71.4367544	known
+frederick	frederick	39.431829	-77.4145324	known
+fredericksburg	fredericksburg	38.2991931	-77.4870713	known
+freeport	freeport	42.2895416	-89.6354778	known
+friendswood	friendswood	29.5108621	-95.1980015	known
+frisco	frisco	33.1507429	-96.8201935	known
+fullerton	fullerton	33.8840384	-117.9278604	known
+gahanna	gahanna	40.031666	-82.8806585	known
+gaithersburg	gaithersburg	39.1302706	-77.2324812	known
+gallatin	gallatin	36.3783872	-86.4693935	known
+galt	galt	38.2671212	-121.3033513	known
+galveston	galveston	29.2439062	-94.8565429	known
+garden grove	garden grove	33.7786941	-117.9601112	known
+gardena	gardena	33.8943381	-118.3072398	known
+gardner	gardner	42.584524	-71.9867819	known
+garfield	garfield	40.8791096	-74.1083294	known
+gary	gary	41.5956028	-87.3452081	known
+gastonia	gastonia	35.2493481	-81.185396	known
+germantown	germantown	35.0829447	-89.782406	known
+gilroy	gilroy	37.0046727	-121.5842487	known
+glenville	glenville	42.8868464	-73.9925098	known
+gloucester	gloucester	42.6306112	-70.6835816	known
+golden valley	golden valley	44.9900442	-93.3589792	known
+goodyear	goodyear	33.2613341	-112.3621844	known
+goshen	goshen	41.5744404	-85.8305458	known
+grand junction	grand junction	39.0880664	-108.5675876	known
+grand prairie	grand prairie	32.6867725	-97.0209345	known
+grand rapids	grand rapids	42.9614815	-85.6556859	known
+grandview	grandview	38.8801808	-94.5226797	known
+greece	greece	43.2483686	-77.698749	known
+greeley	greeley	40.4141585	-104.7711709	known
+green bay	green bay	44.5207094	-87.985416	known
+greenacres	greenacres	26.6274784	-80.1373113	known
+greensboro	greensboro	36.0959607	-79.8273028	known
+greenwich	greenwich	41.0463123	-73.6273887	known
+gresham	gresham	45.5024257	-122.441469	known
+groton	groton	41.3473522	-72.0302416	known
+guilford	guilford	41.3315883	-72.7004785	known
+gulfport	gulfport	30.4211404	-89.0691754	known
+hagerstown	hagerstown	39.6400784	-77.7216913	known
+hamilton	hamilton	39.3938126	-84.5652269	known
+hampton	hampton	37.0487285	-76.29536	known
+hamtramck	hamtramck	42.395387	-83.0559514	known
+hanford	hanford	36.3261418	-119.6540098	known
+harlingen	harlingen	26.1914572	-97.6976169	known
+harrisburg	harrisburg	40.2752109	-76.8842483	known
+harrison	harrison	41.0233087	-73.7192469	known
+hartford	hartford	41.7660706	-72.6834012	known
+harvey	harvey	41.6074442	-87.6523003	known
+haverhill	haverhill	42.7838244	-71.0870839	known
+hawthorne	hawthorne	33.9146677	-118.3476677	known
+helena	helena	46.5962953	-112.0194773	known
+hempstead	hempstead	40.6335917	-73.6096588	known
+hendersonville	hendersonville	36.3063385	-86.5996707	known
+henrietta	henrietta	43.0555616	-77.6412727	known
+herndon	herndon	38.9699249	-77.3867168	known
+hialeah	hialeah	25.869633	-80.3045568	known
+high point	high point	35.9880805	-79.9932589	known
+highland park	highland park	42.182293	-87.810428	known
+hilliard	hilliard	40.0347911	-83.1545813	known
+hillsboro	hillsboro	45.529039	-122.9374364	known
+hilo	hilo	19.705556	-155.085833	known
+hobart	hobart	41.5138758	-87.2727469	known
+hoboken	hoboken	40.7452002	-74.027971	known
+hollywood	hollywood	26.03013	-80.1648113	known
+homewood	homewood	33.461732	-86.8091897	known
+hopewell	hopewell	37.2913649	-77.298542	known
+horn lake	horn lake	34.9511996	-90.0501257	known
+hot springs	hot springs	34.491535	-93.0488392	known
+houma	houma	29.5799376	-90.7058286	known
+huntersville	huntersville	35.40554	-80.8741742	known
+huntington beach	huntington beach	33.6908607	-118.0076591	known
+hutchinson	hutchinson	38.0681318	-97.9112654	known
+hyde park	hyde park	41.8010661	-73.9059694	known
+idaho falls	idaho falls	43.4877729	-112.0358068	known
+indio	indio	33.7327417	-116.2393798	known
+inglewood	inglewood	33.9565747	-118.3444452	known
+iowa city	iowa city	41.6558611	-91.5307237	known
+irvine	irvine	33.6771854	-117.7737695	known
+irving	irving	32.8583809	-96.970306	known
+islip	islip	40.7160589	-73.1906538	known
+issaquah	issaquah	47.5413189	-122.0435427	known
+ithaca	ithaca	42.4441326	-76.5031792	known
+jacksonville beach	jacksonville beach	30.27927	-81.3745258	known
+jamestown	jamestown	42.0974863	-79.2366566	known
+janesville	janesville	42.6857016	-89.013853	known
+jeffersontown	jeffersontown	38.2054605	-85.5702116	known
+jeffersonville	jeffersonville	38.3375651	-85.7026185	known
+jersey city	jersey city	40.7116234	-74.0648201	known
+johnston	johnston	41.8273625	-71.5200866	known
+johnstown	johnstown	40.3258625	-78.9193503	known
+joliet	joliet	41.52042	-88.1505261	known
+jonesboro	jonesboro	35.8208122	-90.6794992	known
+joplin	joplin	37.0776195	-94.5020578	known
+jupiter	jupiter	26.9198131	-80.1100837	known
+kahului	kahului	20.881667	-156.4675	known
+kalamazoo	kalamazoo	42.2748756	-85.5881886	known
+kaneohe	kaneohe	21.409167	-157.799167	known
+kankakee	kankakee	41.1018093	-87.8643562	known
+kannapolis	kannapolis	35.4765441	-80.6392432	known
+kearney	kearney	40.7005705	-99.0838882	known
+kearny	kearny	40.7526301	-74.1202459	known
+keller	keller	32.9336596	-97.2255539	known
+kenmore	kenmore	47.7532391	-122.24617	known
+kenner	kenner	30.0106937	-90.255032	known
+kennesaw	kennesaw	34.0263826	-84.6178412	known
+kennewick	kennewick	46.1984385	-119.1732458	known
+kenosha	kenosha	42.5856456	-87.8733573	known
+kernersville	kernersville	36.1064925	-80.0852547	known
+kerrville	kerrville	30.0385033	-99.1315404	known
+key west	key west	24.5640411	-81.7767784	known
+killeen	killeen	31.0757658	-97.7286062	known
+kingston	kingston	41.9295132	-73.9967932	known
+kinston	kinston	35.2747808	-77.5937888	known
+kirkland	kirkland	47.6852132	-122.1907113	known
+kissimmee	kissimmee	28.3036868	-81.4166951	known
+knoxville	knoxville	35.9690593	-83.949589	known
+kokomo	kokomo	40.4680787	-86.1352366	known
+kyle	kyle	30.0015116	-97.8629482	known
+la crosse	la crosse	43.8235401	-91.2279606	known
+la mesa	la mesa	32.7703843	-117.0203703	known
+la mirada	la mirada	33.9024628	-118.0092832	known
+la quinta	la quinta	33.6537364	-116.2784893	known
+lagrange	lagrange	33.0290468	-85.0372071	known
+lake jackson	lake jackson	29.051948	-95.4517712	known
+lake oswego	lake oswego	45.4128358	-122.7001407	known
+lake stevens	lake stevens	48.0028032	-122.0964227	known
+lakeland	lakeland	28.0556526	-81.9542113	known
+laredo	laredo	27.5460193	-99.4870157	known
+las cruces	las cruces	32.3264938	-106.7892976	known
+lawndale	lawndale	33.8884227	-118.3531377	known
+lawrenceville	lawrenceville	33.952335	-83.9930145	known
+lawton	lawton	34.6170565	-98.4203935	known
+layton	layton	41.0771824	-111.96159	known
+league city	league city	29.4872836	-95.1089812	known
+leavenworth	leavenworth	39.3223673	-94.9245841	known
+leawood	leawood	38.9075731	-94.6258335	known
+lenexa	lenexa	38.9608337	-94.801983	known
+lewisville	lewisville	33.0451992	-96.9829271	known
+lexington	lexington	42.4456401	-71.2307148	known
+lincoln park	lincoln park	42.2432968	-83.1810088	known
+little rock	little rock	34.7253942	-92.358374	known
+littleton	littleton	39.5911648	-105.0192571	known
+livermore	livermore	37.6865093	-121.7643571	known
+livonia	livonia	42.3971593	-83.3733074	known
+lodi	lodi	38.1218708	-121.2932844	known
+lomita	lomita	33.7933128	-118.3174471	known
+lompoc	lompoc	34.6617592	-120.4714345	known
+longmont	longmont	40.1692337	-105.0998868	known
+lorain	lorain	41.4409601	-82.1839198	known
+loveland	loveland	40.4168082	-105.0621188	known
+lowell	lowell	42.6388727	-71.3217144	known
+lubbock	lubbock	33.5665426	-101.8864986	known
+ludlow	ludlow	42.1921549	-72.4580453	known
+lynchburg	lynchburg	37.4004163	-79.1911081	known
+lynn	lynn	42.4744943	-70.9607077	known
+lynnwood	lynnwood	47.8284974	-122.3032984	known
+lynwood	lynwood	33.9239617	-118.2016487	known
+madera	madera	36.9639837	-120.0802468	known
+madison heights	madison heights	42.5072744	-83.1033554	known
+mamaroneck	mamaroneck	40.9251494	-73.7404143	known
+manassas	manassas	38.7479626	-77.4839011	known
+manitowoc	manitowoc	44.0990026	-87.6811516	known
+maple grove	maple grove	45.108809	-93.4625382	known
+maple valley	maple valley	47.3664692	-122.0370151	known
+maplewood	maplewood	45.0139262	-93.04508	known
+marana	marana	32.4354972	-111.1558224	known
+margate	margate	26.2465385	-80.2119314	known
+maricopa	maricopa	33.0446969	-112.0164538	known
+marietta	marietta	33.9531702	-84.5420321	known
+marlborough	marlborough	42.3493978	-71.5468073	known
+marquette	marquette	46.5509045	-87.3960278	known
+martinez	martinez	37.9995487	-122.1150958	known
+maryville	maryville	35.7467253	-83.9790041	known
+massillon	massillon	40.7837677	-81.5252666	known
+matthews	matthews	35.1195094	-80.7101099	known
+mcallen	mcallen	26.2185651	-98.2452035	known
+mchenry	mchenry	42.3387882	-88.2931304	known
+mckinney	mckinney	33.1988888	-96.6677026	known
+mcminnville	mcminnville	45.2109928	-123.1918305	known
+melbourne	melbourne	28.1160122	-80.6460705	known
+melrose	melrose	42.4556037	-71.0590308	known
+mequon	mequon	43.2356849	-88.0194835	known
+merced	merced	37.3057044	-120.4778647	known
+mercer island	mercer island	47.5623476	-122.2265214	known
+meriden	meriden	41.5367461	-72.7943441	known
+merrillville	merrillville	41.4727489	-87.3196469	known
+merrimack	merrimack	42.8547019	-71.5189996	known
+miamisburg	miamisburg	39.6323607	-84.2725321	known
+midwest city	midwest city	35.4630074	-97.3709611	known
+milpitas	milpitas	37.4293831	-121.8694002	known
+milwaukie	milwaukie	45.4444806	-122.621964	known
+minnetonka	minnetonka	44.9323502	-93.4601875	known
+minot	minot	48.2349067	-101.2887323	known
+miramar	miramar	25.977329	-80.3357307	known
+missoula	missoula	46.8686501	-114.0088182	known
+modesto	modesto	37.6370119	-121.0030537	known
+monrovia	monrovia	34.165055	-117.9921048	known
+montclair	montclair	34.0714536	-117.6980532	known
+monterey	monterey	36.6008258	-121.8837557	known
+moore	moore	35.3293651	-97.4757771	known
+mooresville	mooresville	35.583515	-80.8254721	known
+moorhead	moorhead	46.8587262	-96.7424699	known
+morristown	morristown	36.2033697	-83.2966748	known
+moscow	moscow	46.7306064	-116.9989884	known
+moses lake	moses lake	47.127215	-119.2755131	known
+mountain view	mountain view	37.4004934	-122.0795357	known
+mukilteo	mukilteo	47.9162828	-122.3104468	known
+muncie	muncie	40.1988955	-85.3949916	known
+murfreesboro	murfreesboro	35.8509171	-86.4092777	known
+murray	murray	40.6497803	-111.8874474	known
+muskegon	muskegon	43.2280567	-86.2559981	known
+muskogee	muskogee	35.7429651	-95.3566768	known
+myrtle beach	myrtle beach	33.7093269	-78.8847404	known
+nacogdoches	nacogdoches	31.6137757	-94.6527596	known
+naperville	naperville	41.7482568	-88.1658542	known
+nashua	nashua	42.7491554	-71.4909588	known
+natick	natick	42.2847296	-71.3497076	known
+needham	needham	42.2814186	-71.2410159	known
+neenah	neenah	44.1671549	-88.4762453	known
+new albany	new albany	38.3076875	-85.8241035	known
+new berlin	new berlin	42.9725905	-88.1291421	known
+new bern	new bern	35.096735	-77.0731143	known
+new braunfels	new braunfels	29.6994706	-98.11533	known
+new haven	new haven	41.3104117	-72.9242525	known
+new rochelle	new rochelle	40.9230824	-73.7799495	known
+new windsor	new windsor	41.4741801	-74.1088651	known
+newberg	newberg	45.3070829	-122.9598358	known
+newnan	newnan	33.3761711	-84.7754596	known
+newport	newport	41.4819901	-71.3229206	known
+newport beach	newport beach	33.5966816	-117.8933276	known
+newtown	newtown	41.3986144	-73.2928827	known
+niagara falls	niagara falls	43.0920922	-79.0147317	known
+noblesville	noblesville	40.0355721	-86.0060696	known
+nogales	nogales	31.3624658	-110.9336529	known
+norman	norman	35.2335033	-97.3470414	known
+north chicago	north chicago	42.3173115	-87.859551	known
+north las vegas	north las vegas	36.289705	-115.0875548	known
+north miami	north miami	25.9007809	-80.1684447	known
+north platte	north platte	41.1266885	-100.763989	known
+north port	north port	27.0575653	-82.1976659	known
+northampton	northampton	42.3266321	-72.6745413	known
+northfield	northfield	44.4553426	-93.1697454	known
+northglenn	northglenn	39.9107306	-104.9782601	known
+northport	northport	33.2581842	-87.5982091	known
+norwich	norwich	41.5494781	-72.0882714	known
+norwood	norwood	42.1860596	-71.1948804	known
+novato	novato	38.1174197	-122.5741481	known
+novi	novi	42.4785959	-83.4892767	known
+oak creek	oak creek	42.8802468	-87.9007748	known
+oak harbor	oak harbor	48.2966655	-122.6332279	known
+oak park	oak park	42.464994	-83.1823306	known
+oak ridge	oak ridge	35.963907	-84.2937591	known
+oakland park	oakland park	26.1779221	-80.152725	known
+oakley	oakley	37.9929541	-121.6951378	known
+ocala	ocala	29.1802548	-82.1487733	known
+oceanside	oceanside	33.2246879	-117.308425	known
+ocoee	ocoee	28.578387	-81.5336163	known
+odessa	odessa	31.8794565	-102.3444654	known
+ogden	ogden	41.2281557	-111.9674525	known
+olathe	olathe	38.8846809	-94.8191905	known
+olympia	olympia	47.0417435	-122.8962292	known
+onondaga	onondaga	42.9686952	-76.216801	known
+ontario	ontario	34.0392708	-117.6064177	known
+opelika	opelika	32.6620274	-85.3773344	known
+oregon	oregon	41.6659672	-83.4265946	known
+orlando	orlando	28.4177272	-81.2978165	known
+oro valley	oro valley	32.4226736	-110.9767691	known
+oshkosh	oshkosh	44.0242418	-88.5610476	known
+ossining	ossining	41.1559429	-73.8564524	known
+ottumwa	ottumwa	41.0195769	-92.4186136	known
+overland park	overland park	38.8872639	-94.6871931	known
+owasso	owasso	36.2884217	-95.8311826	known
+owensboro	owensboro	37.7570179	-87.1166354	known
+oxnard	oxnard	34.2007691	-119.21469	known
+pacifica	pacifica	37.6111479	-122.4780433	known
+paducah	paducah	37.0711432	-88.6434119	known
+palm springs	palm springs	33.801225	-116.5380321	known
+palo alto	palo alto	37.3960221	-122.1429518	known
+panama city	panama city	30.175891	-85.6724078	known
+parma	parma	41.3842412	-81.7285989	known
+pasco	pasco	46.2503999	-119.1279898	known
+paterson	paterson	40.9146875	-74.1624181	known
+patterson	patterson	37.4734453	-121.1439821	known
+peabody	peabody	42.5335065	-70.9724255	known
+pearland	pearland	29.5585086	-95.3200924	known
+peekskill	peekskill	41.2883342	-73.9226611	known
+pelham	pelham	33.3116798	-86.7566894	known
+pensacola	pensacola	30.4426581	-87.1885543	known
+petaluma	petaluma	38.2423151	-122.6266287	known
+petersburg	petersburg	37.2041781	-77.3914515	known
+pflugerville	pflugerville	30.4544733	-97.6053034	known
+pharr	pharr	26.1685943	-98.1903792	known
+pittsburgh	pittsburgh	40.439623	-79.9762589	known
+pittsfield	pittsfield	42.4517026	-73.2605175	known
+pittsford	pittsford	43.0732413	-77.5267374	known
+plainview	plainview	34.1908978	-101.7234353	known
+plano	plano	33.0502133	-96.7486381	known
+pleasanton	pleasanton	37.6659422	-121.8804841	known
+pleasantville	pleasantville	39.3897322	-74.5167834	known
+pocatello	pocatello	42.8715807	-112.4661513	known
+pomona	pomona	34.0585019	-117.7625526	known
+pompano beach	pompano beach	26.2428183	-80.131187	known
+pontiac	pontiac	42.6493216	-83.2878062	known
+porterville	porterville	36.0636741	-119.0333034	known
+poway	poway	32.9871518	-117.0201153	known
+prescott	prescott	34.5799548	-112.4475584	known
+provo	provo	40.2457052	-111.6457079	known
+puyallup	puyallup	47.1793187	-122.2905441	known
+queen creek	queen creek	33.2391007	-111.6396609	known
+queensbury	queensbury	43.3568564	-73.6764943	known
+racine	racine	42.7287857	-87.8072659	known
+raleigh	raleigh	35.8321767	-78.644116	known
+ramsey	ramsey	45.2617719	-93.449456	known
+rancho cordova	rancho cordova	38.5738875	-121.2521304	known
+randolph	randolph	42.1778533	-71.0539623	known
+redlands	redlands	34.0511659	-117.171006	known
+reno	reno	39.5486304	-119.8485611	known
+renton	renton	47.4760703	-122.1908251	known
+richardson	richardson	32.9716565	-96.7093052	known
+richfield	richfield	44.8762225	-93.2826813	known
+richland	richland	46.2835057	-119.2940907	known
+ridgefield	ridgefield	41.3064672	-73.5023731	known
+rio rancho	rio rancho	35.2873254	-106.6979696	known
+roanoke	roanoke	37.2784076	-79.9580842	known
+rochester hills	rochester hills	42.6645256	-83.1563041	known
+rock island	rock island	41.4710716	-90.583276	known
+rockford	rockford	42.2594157	-89.0643373	known
+rocklin	rocklin	38.8078544	-121.2491062	known
+rockville	rockville	39.0834415	-77.1553182	known
+rockwall	rockwall	32.9169799	-96.4378829	known
+romulus	romulus	42.2236933	-83.3659783	known
+roseburg	roseburg	43.2227003	-123.3520595	known
+rosemead	rosemead	34.0688427	-118.0823149	known
+rotterdam	rotterdam	42.8133153	-74.0128741	known
+round rock	round rock	30.5239318	-97.6669516	known
+rowlett	rowlett	32.9166749	-96.5488952	known
+roy	roy	41.1716013	-112.047998	known
+saginaw	saginaw	43.4192824	-83.9503299	known
+sahuarita	sahuarita	31.9321181	-110.9650936	known
+salt lake city	salt lake city	40.777849	-111.9312208	known
+sammamish	sammamish	47.604437	-122.0376756	known
+san angelo	san angelo	31.4423649	-100.4502699	known
+san benito	san benito	26.1298405	-97.6439337	known
+san bernardino	san bernardino	34.0886235	-117.280598	known
+san clemente	san clemente	33.448866	-117.6107054	known
+san jacinto	san jacinto	33.7969759	-116.9915017	known
+san juan	san juan	26.1902042	-98.152179	known
+san leandro	san leandro	37.7018748	-122.1541322	known
+san mateo	san mateo	37.5643808	-122.3516376	known
+sandusky	sandusky	41.4563918	-82.7141311	known
+sandy springs	sandy springs	33.936667	-84.3703197	known
+santa ana	santa ana	33.736695	-117.8818895	known
+santa barbara	santa barbara	34.3997681	-119.7130649	known
+santa clara	santa clara	37.3646326	-121.967926	known
+santa cruz	santa cruz	36.973381	-122.0355319	known
+santa fe	santa fe	35.6655361	-105.9738861	known
+santa monica	santa monica	34.0231837	-118.4815694	known
+santa rosa	santa rosa	38.4464407	-122.7060021	known
+santee	santee	32.8554421	-116.9848799	known
+sapulpa	sapulpa	36.0022417	-96.1167294	known
+sarasota	sarasota	27.3379943	-82.5450931	known
+saratoga	saratoga	37.2684328	-122.0250647	known
+saugus	saugus	42.4679938	-71.0144464	known
+schenectady	schenectady	42.8025255	-73.9275598	known
+scottsdale	scottsdale	33.6872486	-111.8650748	known
+scranton	scranton	41.4043729	-75.6649127	known
+seatac	seatac	47.4444234	-122.2985494	known
+sebastian	sebastian	27.7882168	-80.4813268	known
+seguin	seguin	29.5885422	-97.9665256	known
+shakopee	shakopee	44.7745031	-93.4762772	known
+sheboygan	sheboygan	43.7448882	-87.7317608	known
+shelby	shelby	35.2889314	-81.5416411	known
+shelbyville	shelbyville	35.4991294	-86.4517642	known
+shelton	shelton	41.305985	-73.1382765	known
+sherman	sherman	33.6242887	-96.6156288	known
+sherwood	sherwood	34.8505562	-92.2027236	known
+shreveport	shreveport	32.466026	-93.7957918	known
+shrewsbury	shrewsbury	42.2841954	-71.7154322	known
+sidney	sidney	40.2890952	-84.1669028	known
+sierra vista	sierra vista	31.563027	-110.3153704	known
+sioux city	sioux city	42.4960365	-96.3906645	known
+slidell	slidell	30.288134	-89.7827153	known
+smithtown	smithtown	40.9183388	-73.2218218	known
+somers	somers	41.3058104	-73.7250168	known
+somerville	somerville	42.3907184	-71.1013079	known
+south bend	south bend	41.6771045	-86.2690699	known
+south milwaukee	south milwaukee	42.9119612	-87.8626548	known
+south portland	south portland	43.6317884	-70.2861903	known
+south san francisco	south san francisco	37.6527405	-122.3433553	known
+southampton	southampton	40.8726973	-72.4875393	known
+southaven	southaven	34.9515914	-89.9785823	known
+southfield	southfield	42.4765016	-83.2605285	known
+southgate	southgate	42.2047021	-83.2057748	known
+southlake	southlake	32.9545312	-97.1502395	known
+spokane	spokane	47.6671554	-117.4330402	known
+spokane valley	spokane valley	47.6625688	-117.2345314	known
+springdale	springdale	36.1866965	-94.155601	known
+st. george	st. george	37.095278	-113.578056	known
+st. louis	st. louis	38.627222	-90.197778	known
+st. paul	st. paul	44.95	-93.1	known
+st. petersburg	st. petersburg	27.773056	-82.64	known
+stamford	stamford	41.0781951	-73.5497964	known
+stanton	stanton	33.8001766	-117.9933883	known
+starkville	starkville	33.4608314	-88.8297413	known
+statesville	statesville	35.7839062	-80.8712577	known
+staunton	staunton	38.1592802	-79.0608272	known
+stillwater	stillwater	36.1315382	-97.0739594	known
+stockbridge	stockbridge	33.5063028	-84.222028	known
+stockton	stockton	37.976634	-121.3111252	known
+stratford	stratford	41.2045232	-73.1299775	known
+strongsville	strongsville	41.3127859	-81.83132	known
+suffolk	suffolk	36.701782	-76.6340989	known
+sugar land	sugar land	29.595591	-95.6282424	known
+sunnyvale	sunnyvale	37.3856932	-122.0264977	known
+tacoma	tacoma	47.25181	-122.4596567	known
+tallahassee	tallahassee	30.4548991	-84.252644	known
+tamarac	tamarac	26.2057661	-80.2547736	known
+tampa	tampa	27.9680042	-82.4763842	known
+taylor	taylor	42.2260518	-83.2688108	known
+taylorsville	taylorsville	40.6569564	-111.9493402	known
+temecula	temecula	33.487806	-117.1411424	known
+tempe	tempe	33.3881857	-111.9317612	known
+terre haute	terre haute	39.4654004	-87.3762656	known
+tewksbury	tewksbury	42.6120048	-71.2278452	known
+texas city	texas city	29.4474496	-94.8941728	known
+thornton	thornton	39.9193214	-104.9449485	known
+tigard	tigard	45.4243618	-122.7824891	known
+titusville	titusville	28.5725012	-80.8192983	known
+tonawanda	tonawanda	43.0105187	-78.8805371	known
+topeka	topeka	39.035955	-95.6954155	known
+torrance	torrance	33.8345985	-118.341642	known
+tracy	tracy	37.7243278	-121.4446222	known
+trenton	trenton	40.223729	-74.7639943	known
+tualatin	tualatin	45.3772469	-122.7742894	known
+tulare	tulare	36.199638	-119.3400224	known
+tuscaloosa	tuscaloosa	33.2345178	-87.5270115	known
+tustin	tustin	33.730852	-117.810731	known
+tyler	tyler	32.3166931	-95.3076104	known
+university city	university city	38.6656584	-90.3314999	known
+university park	university park	32.8506099	-96.7937557	known
+university place	university place	47.2148398	-122.5460773	known
+upper arlington	upper arlington	40.0271051	-83.0703266	known
+urbana	urbana	40.1106485	-88.1972491	known
+utica	utica	43.0960814	-75.2261069	known
+vacaville	vacaville	38.3597809	-121.9690103	known
+vallejo	vallejo	38.1079448	-122.2643158	known
+valparaiso	valparaiso	41.4797998	-87.0531041	known
+van buren	van buren	35.447618	-94.3527944	known
+vancouver	vancouver	45.6351249	-122.5971806	known
+venice	venice	27.1163	-82.4136139	known
+ventura	ventura	34.275	-119.227778	known
+vernon	vernon	41.836401	-72.4606147	known
+vineland	vineland	39.465249	-74.9981356	known
+visalia	visalia	36.3270931	-119.3265008	known
+waco	waco	31.5597766	-97.1883159	known
+wadsworth	wadsworth	41.0286822	-81.732316	known
+wake forest	wake forest	35.9375295	-78.4867003	known
+wakefield	wakefield	42.5034732	-71.0656968	known
+walla walla	walla walla	46.0677869	-118.3364653	known
+wallingford	wallingford	41.4587474	-72.8039217	known
+waltham	waltham	42.3889203	-71.242325	known
+warner robins	warner robins	32.5984758	-83.6530405	known
+wasco	wasco	35.5937731	-119.3673078	known
+watauga	watauga	32.8718436	-97.2515049	known
+waterbury	waterbury	41.5582443	-73.0361298	known
+watsonville	watsonville	36.9205943	-121.7706231	known
+waukegan	waukegan	42.370314	-87.8711404	known
+waukesha	waukesha	43.0093481	-88.2457619	known
+wausau	wausau	44.9616827	-89.6439245	known
+wauwatosa	wauwatosa	43.0615645	-88.0347469	known
+waynesboro	waynesboro	38.0673167	-78.9012524	known
+webster groves	webster groves	38.5866022	-90.3543879	known
+wellesley	wellesley	42.3042926	-71.2854467	known
+wenatchee	wenatchee	47.4251246	-120.3289939	known
+wentzville	wentzville	38.8166783	-90.8669188	known
+west allis	west allis	43.00681	-88.0295613	known
+west bend	west bend	43.4185535	-88.1824089	known
+west chicago	west chicago	41.9013645	-88.2422732	known
+west hollywood	west hollywood	34.088267	-118.3718289	known
+west lafayette	west lafayette	40.455644	-86.9135871	known
+west memphis	west memphis	35.1531933	-90.1987926	known
+west new york	west new york	40.7856588	-74.0093088	known
+west sacramento	west sacramento	38.5555896	-121.5504354	known
+westford	westford	42.5864215	-71.4400713	known
+westlake	westlake	41.4524263	-81.9294762	known
+weston	weston	26.1002756	-80.4051922	known
+westport	westport	41.1225869	-73.3456842	known
+wheaton	wheaton	41.8560569	-88.1083055	known
+white plains	white plains	41.0220428	-73.754818	known
+whittier	whittier	33.9678256	-118.0187964	known
+wichita	wichita	37.6906282	-97.3425817	known
+williamsport	williamsport	41.2397625	-77.03713	known
+willoughby	willoughby	41.6461551	-81.4083544	known
+wilson	wilson	35.7342609	-77.9325543	known
+windham	windham	41.7101611	-72.1670618	known
+winona	winona	44.0510453	-91.6691234	known
+woburn	woburn	42.4868847	-71.1542716	known
+woodbury	woodbury	44.9054827	-92.9230159	known
+wooster	wooster	40.8163613	-81.9341152	known
+worcester	worcester	42.2705425	-71.8079405	known
+wyoming	wyoming	42.8909938	-85.7067147	known
+yakima	yakima	46.5926124	-120.5492134	known
+yarmouth	yarmouth	41.6752087	-70.225554	known
+york	york	39.9650998	-76.7315361	known
+yorktown	yorktown	41.2727064	-73.8091763	known
+yukon	yukon	35.5202961	-97.7636375	known
+yuma	yuma	32.55335	-114.5155375	known
+zanesville	zanesville	39.9567803	-82.0133437	known

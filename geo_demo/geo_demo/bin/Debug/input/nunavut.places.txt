@@ -1,0 +1,29 @@
+name	key	lat	lon	known
+Arctic Bay	arctic_bay	73.036389	-85.1525	cross-validated
+Arviat	arviat	61.108056	-94.056944	cross-validated
+Baker Lake	baker_lake	64.318056	-96.0175	cross-validated
+Bathurst Inlet	bathurst_inlet	66.833333	-108.033333	cross-validated
+Cambridge Bay	cambridge_bay	69.117222	-105.053056	cross-validated
+Cape Dorset	cape_dorset	64.231667	-76.540278	cross-validated
+Chesterfield Inlet	chesterfield_inlet	63.340833	-90.706111	cross-validated
+Clyde River	clyde_river	70.473889	-68.586111	cross-validated
+Coral Harbour	coral_harbour	64.136944	-83.164167	cross-validated
+Gjoa Haven	gjoa_haven	68.625833	-95.875	cross-validated
+Grise Fiord	grise_fiord	76.4175	-82.893889	cross-validated
+Hall Beach	hall_beach	68.777222	-81.224167	cross-validated
+Igloolik	igloolik	69.376111	-81.799444	cross-validated
+Iqaluit	iqaluit	63.748611	-68.519722	cross-validated
+Kimmirut	kimmirut	62.846667	-69.868611	cross-validated
+Kugaaruk	kugaaruk	68.533056	-89.826667	cross-validated
+Kugluktuk	kugluktuk	67.825556	-115.095	cross-validated
+Nanisivik	nanisivik	73.034722	-84.536944	cross-validated
+Pangnirtung	pangnirtung	66.147778	-65.699444	cross-validated
+Pond Inlet	pond_inlet	72.699167	-77.959167	cross-validated
+Qikiqtarjuaq	qikiqtarjuaq	67.558056	-64.024722	cross-validated
+Rankin Inlet	rankin_inlet	62.809722	-92.099444	cross-validated
+Repulse Bay	repulse_bay	66.521944	-86.235	cross-validated
+Resolute	resolute	74.6975	-94.832222	cross-validated
+Sanikiluaq	sanikiluaq	56.542778	-79.225	cross-validated
+Taloyoak	taloyoak	69.536944	-93.526667	cross-validated
+Umingmaktok	umingmaktok	67.698889	-107.924167	cross-validated
+Whale Cove	whale_cove	62.172778	-92.579444	cross-validated
