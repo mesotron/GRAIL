@@ -23,3 +23,5 @@ C:\Users\meso\Documents\Ashley\geo_demo\geo_demo\obj\x86\Debug\geo_demo.Properti
 C:\Users\meso\Documents\Ashley\geo_demo\geo_demo\obj\x86\Debug\geo_demo.csproj.GenerateResource.Cache
 C:\Users\meso\Documents\Ashley\geo_demo\geo_demo\bin\Debug\geo_demo.exe
 C:\Users\meso\Documents\Ashley\geo_demo\geo_demo\bin\Debug\geo_demo.pdb
+C:\Users\meso\git\GRAIL\geo_demo\geo_demo\obj\x86\Debug\geo_demo.exe
+C:\Users\meso\git\GRAIL\geo_demo\geo_demo\obj\x86\Debug\geo_demo.pdb
